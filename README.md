@@ -1,1 +1,1 @@
-TODO: https://www.baeldung.com/spring-cloud-task#task_batch
+see: http://spring-guides.marcuschiu.com/spring-cloud/cloud-task/spring-cloud-task-batch.html
